@@ -20,6 +20,16 @@
   <a href="https://github.com/Zeraltz/"><img width="32px" alt="Github" title="My Github" src="https://img.icons8.com/nolan/344/github.png"/></a>
 </p>
 
+# About Me
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"</a>
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    </p>
+
+
+
+
+
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo"</a>
 </p>
@@ -27,7 +37,5 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zeraltz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zeraltz&theme=onedark"</a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zeraltz&theme=dark_lover"</a>
 </p>
-
-
