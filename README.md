@@ -10,11 +10,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/MauroCantillo_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/MauroCantillo_"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/color/452/twitter--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/bvU7mrAt" alt="Gaming Server for Free Time" title="Gaming Server for Free Time"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/bvU7mrAt" alt="Gaming Server for Free Time" title="Gaming Server for Free Time"><img width="32px" src="https://img.icons8.com/color/452/discord-logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/ios-filled/452/linkedin-circled--v1.png"/></a>
+  <a href="https://www.linkedin.com/in/mauricio-cantillo-moreno-374576184/"><img width="32px" alt="LinkedIn" title="Want to connect?" src="https://img.icons8.com/ios-filled/452/linkedin-circled--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
