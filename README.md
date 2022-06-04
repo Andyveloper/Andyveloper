@@ -32,6 +32,7 @@
   ```javascript
 const mauro = {
   pronouns: "he" | "him",
+  ethnicity: "mixed-race"
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Webpack, SASS],
   rank: "student",
@@ -45,9 +46,7 @@ const mauro = {
 ```
 
 </details>
-  
-
-
+ <br>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo"</a>
 </p>
