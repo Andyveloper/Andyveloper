@@ -23,7 +23,7 @@
 <!-- About me section -->
 # About Me
 <details>
-  ## Info
+## Info
   
   ```javascript
 const mauro = {
