@@ -38,7 +38,8 @@ const mauro = {
                         techThree: "Docker"
                       },
   challenge: "To become a really great, kind and dependable software developer",
-  description: "I am a very passionate person, that is always learning new stuff and trying to become a better person in every aspect of life.\n
+  description: "I am a very passionate person, that is always learning new stuff \n
+  and trying to become a better person in every aspect of life.\n
   My dream is to be good enough to be proud of myself"
 }
 ```
