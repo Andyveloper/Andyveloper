@@ -20,9 +20,11 @@
   <a href="https://github.com/Zeraltz/"><img width="32px" alt="Github" title="My Github" src="https://img.icons8.com/nolan/344/github.png"/></a>
 </p>
 
+<!-- About me section -->
 # About Me
+<!-- Streak stats https://git.io/streak-stats  -->
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=Zeraltz&show_icons=true&theme=tokyonight"</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeraltz&show_icons=true&theme=tokyonight"
 </p>
   
 <p align ="center">
