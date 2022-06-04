@@ -22,15 +22,12 @@
 
 # About Me
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"</a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=Zeraltz&show_icons=true&theme=tokyonight"</a>
 </p>
+  
 <p align ="center">
     Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-
-
-
-
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo"</a>
