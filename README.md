@@ -30,14 +30,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeraltz&layout=compact"</a>
 </p>
 
-<p align ="center">
+
     `Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.`
-</p>
+
 </details>
   
-<p align ="center">
-    Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo"</a>
