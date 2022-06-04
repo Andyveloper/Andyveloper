@@ -24,6 +24,7 @@
 # About Me
 <details>
   ## Info
+  
   ```javascript
 const mauro = {
   pronouns: "he" | "him",
@@ -36,11 +37,10 @@ const mauro = {
                         techTwo: "Ruby",
                         techThree: "Docker"
                       },
- challenge: "To become a really great, kind and dependable software developer",
- description: "I am a very passionate person, that\'s always learning new stuff and trying to become a better person in every aspect of life.\n
-  My dream is to be good enough to be proud of myself"
+ challenge: "To become a really great, kind and dependable software developer"
 }
 ```
+  
   ## Stats
  <div>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Zeraltz&show_icons=true&theme=tokyonight&count_private=true"</a></p>
