@@ -26,6 +26,13 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Zeraltz&show_icons=true&theme=tokyonight&count_private=true"</a>
 </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeraltz&layout=compact"</a>
+</p>
+
+<p align ="center">
+    `Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.`
+</p>
 </details>
   
 <p align ="center">
