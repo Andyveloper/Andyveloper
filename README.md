@@ -21,10 +21,13 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img " src="https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo"</a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo"</a>
 </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zeraltz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zeraltz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zeraltz&theme=onedark"</a>
+</p>
+
 
