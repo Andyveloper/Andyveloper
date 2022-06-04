@@ -41,7 +41,7 @@ const mauro = {
   challenge: "To become a really great, kind and dependable software developer",
   description: "I am a very passionate person, that is always learning new stuff",
   dream: "My dream is to be good enough to be proud of myself"
-}
+};
 ```
   
   ## Stats
