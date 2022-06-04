@@ -23,6 +23,7 @@
 <!-- About me section -->
 # About Me
 <details>
+  
 ## Info
   
   ```javascript
