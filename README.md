@@ -29,7 +29,7 @@
   ```javascript
 const mauro = {
   pronouns: "he" | "him",
-  ethnicity: "mixed-race"
+  ethnicity: "mixed-race",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Webpack, SASS],
   rank: "student",
