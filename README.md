@@ -24,7 +24,7 @@
 # About Me
 <!-- Streak stats https://git.io/streak-stats  -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeraltz&show_icons=true&theme=tokyonight"
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Zeraltz&show_icons=true&theme=tokyonight"</a>
 </p>
   
 <p align ="center">
