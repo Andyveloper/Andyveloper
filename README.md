@@ -19,9 +19,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Zeraltz/"><img width="32px" alt="Github" title="My Github" src="https://img.icons8.com/nolan/344/github.png"/></a>
 </p>
-
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zeraltz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 <p align="center">
   <a href="https://git.io/streak-stats"><img " src="https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo"</a>
 </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zeraltz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+
