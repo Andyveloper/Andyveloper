@@ -20,7 +20,9 @@
   <a href="https://github.com/Zeraltz/"><img width="32px" alt="Github" title="My Github" src="https://img.icons8.com/nolan/344/github.png"/></a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zeraltz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo)](https://git.io/streak-stats)
-
+<p align="center">
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zeraltz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo)](https://git.io/streak-stats)
+</p>
