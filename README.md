@@ -28,7 +28,7 @@
   
   ```javascript
 const mauro = {
-  pronouns: "he" | "him",
+  age: 27,
   ethnicity: "mixed-race",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Webpack, SASS],
