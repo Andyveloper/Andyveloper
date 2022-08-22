@@ -5,7 +5,7 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <div style="display: flex">
   <p align="center" >
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img style="justify-content: center" src="https://readme-typing-svg.herokuapp.com?size=24&color=6353FF&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;A+Technophile+and+A+Computer+Geek;Passionate+About+New+Technologies;Anime+Fan+and+Avid+PC+Gamer;Always+Learning+New+Things"</a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img style="justify-content: center" src="https://readme-typing-svg.herokuapp.com?size=24&color=6353FF&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;A+Technophile+and+A+Computer+Geek;Passionate+About+New+Technologies;Constantly Improving Skills;Anime+Fan+and+Avid+PC+Gamer;Always+Learning+New+Things"</a>
   </p>
 </div>
 
@@ -15,9 +15,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/bvU7mrAt" alt="Gaming Server for Free Time" title="Gaming Server for Free Time"><img width="32px" src="https://img.icons8.com/color/452/discord-logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/mauricio-cantillo-moreno-374576184/"><img width="32px" alt="LinkedIn" title="Want to connect?" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/></a>
+  <a href="https://www.linkedin.com/in/mauricio-cantillo-moreno/"><img width="32px" alt="LinkedIn" title="Want to connect?" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/Zeraltz/"><img width="32px" alt="Github" title="My Github" src="https://img.icons8.com/nolan/344/github.png"/></a>
+  <a href="https://github.com/Andyveloper"><img width="32px" alt="Github" title="My Github" src="https://img.icons8.com/nolan/344/github.png"/></a>
 </p>
 
 <!-- About me section -->
