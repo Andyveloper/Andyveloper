@@ -46,18 +46,18 @@ const mauro = {
   
   ## Stats
  <div>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Zeraltz&show_icons=true&theme=tokyonight&count_private=true"</a></p>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeraltz&layout=compact"</a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Andyveloper&show_icons=true&theme=tokyonight&count_private=true"</a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyveloper&layout=compact"</a></p>
 </div>
 
 </details>
  <br>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo"</a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Andyveloper&theme=tokyonight_duo"</a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zeraltz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andyveloper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zeraltz&theme=dark_lover"</a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Andyveloper&theme=dark_lover"</a>
 </p>
