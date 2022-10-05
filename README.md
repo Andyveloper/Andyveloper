@@ -30,13 +30,13 @@
 const mauro = {
   age: 27,
   ethnicity: "mixed-race",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Webpack, SASS],
+  code: [Javascript, HTML, CSS, Ruby],
+  tools: [React, Redux, Rails, npm, Webpack, SASS],
   rank: "student",
   upcomingTechnologies: {
                         techOne: "TypeScript",
-                        techTwo: "Ruby",
-                        techThree: "Docker"
+                        techTwo: "Express",
+                        techThree: "Node.js"
                         },
   challenge: "To become a really great, kind and dependable software developer",
   description: "I am a very passionate person, that is always learning new stuff",
