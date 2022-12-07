@@ -56,7 +56,7 @@ const mauro = {
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Andyveloper&theme=tokyonight_duo"</a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andyveloper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Andyveloper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Andyveloper&theme=dark_lover"</a>
