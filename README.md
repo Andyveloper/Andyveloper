@@ -30,7 +30,7 @@
 const mauro = {
   age: 28,
   ethnicity: "mixed-race",
-  code: [Javascript, HTML, CSS],
+  code: [JavaScript, HTML, CSS],
   tools: [TypeScript, Next.js, React, Redux, npm/yarn, Webpack/Vite, SCSS],
   rank: "Front-end Developer",
   upcomingTechnologies: {
