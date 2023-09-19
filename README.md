@@ -82,7 +82,7 @@ const mauro = {
     <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40"/>
   </a> 
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width="40" alt="Material-UI" />
   &nbsp;
