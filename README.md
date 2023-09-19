@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <h3 align="center">
   Welcome to Mauricio Cantillo's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -80,6 +82,13 @@ const mauro = {
   </a>
   <a href="https://nextjs.org/#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40"/>
+  </a> 
+    &nbsp;
+  <a href="https://tailwindcss.com/#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <i class="devicon-tailwindcss-original-wordmark"></i>
+  </a>
+  <a href="https://nextjs.org/#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <i class="devicon-tailwindcss-original-wordmark colored"></i>
   </a> 
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width="40" alt="Material-UI" />
