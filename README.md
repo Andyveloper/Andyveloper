@@ -105,7 +105,4 @@ const mauro = {
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/>
   &nbsp;
 </p>
- 
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Andyveloper&theme=dark_lover"</a>
-</p>
+
