@@ -22,7 +22,7 @@
 
 <!-- About me section -->
 # About Me
-<details>
+<div>
   
 ## Info
   
@@ -43,14 +43,7 @@ const mauro = {
   dream: "My dream is to be good enough to be proud of myself"
 };
 ```
-  
-  ## Stats
- <div>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Andyveloper&show_icons=true&theme=tokyonight&count_private=true"</a></p>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyveloper&layout=compact"</a></p>
 </div>
-
-</details>
  <br>
  
  ## Languages and Tools
